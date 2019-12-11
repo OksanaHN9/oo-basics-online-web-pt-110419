@@ -3,4 +3,7 @@ end
 Book.new("And Then There Were None")
 class Book 
   
-  def initialize()
+  def initialize("And Then There Were None")
+end 
+
+end
